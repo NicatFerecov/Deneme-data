@@ -8,4 +8,4 @@ This is a starter template for a data analysis project using Python, pandas, num
    ```
    pip install -r requirements.txt
    ```
-2. Add your data and start analyzing in `analysis.py`.
+2. Add your data and start analyzing in `main.py`.
